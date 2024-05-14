@@ -1,2 +1,5 @@
 # recipes
-I want to use this repository to build an html website about 3 recipes
+This website is my first project while learning frontend development.
+This is a simple recipe website to three of the most common food in Nigeria.
+I made use of only HTML for this project.
+I look forward to working on more projects in the future.
